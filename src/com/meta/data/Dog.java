@@ -7,5 +7,6 @@ public class Dog extends  Pet{
     }
     public void showWeight(){
         System.out.println(this.weight);
+        System.out.println("this is change" );
     }
 }
