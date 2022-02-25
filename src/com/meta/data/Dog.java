@@ -6,6 +6,6 @@ public class Dog extends  Pet{
         super(id, name, yob, weight);
     }
     public void showWeight(){
-        System.out.println(this.weight);
+        System.out.println("ahihi " + this.weight);
     }
 }
